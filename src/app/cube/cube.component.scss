@@ -1,0 +1,17 @@
+.cube{
+    border: 1px dotted #20a8a6;
+    width: 28px;
+    height: 28px;
+    display: inline-block;
+    background-color: #273c75;
+}
+.color{
+    // background-color: #aa3335;
+    background-image: url("../circle.png");
+    background-size: cover;
+}
+.fruit{
+    // background-color: #e85a0c;
+    background-image: url("../apple.png");
+    background-size: cover;
+}
